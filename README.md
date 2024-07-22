@@ -2,7 +2,7 @@
 - 👀 I’m interested in data
 - 🌱 I’m currently learning SQL, Python, Tableau, R
 - 💞️ I’m looking to collaborate on data project
-- 📫 How to reach me 
+- 📫 How to reach me @aufa.aludin on Instagram and Linkedin muhammadaufaaludin
 - ⚡ Fun fact: I am keen on exploring new things since the curiosity gives me unclear answers. I have to find the answer.
 
 <!---
